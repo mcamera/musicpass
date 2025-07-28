@@ -188,10 +188,10 @@ npm run dev
 
 ### Phase 1: MVP (Months 1-3)
 - [x] Smart contract development
-- [x] Basic mobile app with wallet integration
 - [x] Event creation and ticket minting
 - [x] Simple marketplace functionality
 - [x] Basic check-in system
+- [ ] Basic mobile app with wallet integration
 
 ### Phase 2: Beta (Months 3-6)
 - [ ] Security audit completion
@@ -207,24 +207,10 @@ npm run dev
 - [ ] API documentation and SDK
 - [ ] Third-party integrations
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🆘 Support
 
-- **Documentation**: [docs.musicpass.com](https://docs.musicpass.com)
-- **Discord**: [discord.gg/musicpass](https://discord.gg/musicpass)
-- **Email**: support@musicpass.com
-- **Twitter**: [@MusicPassApp](https://twitter.com/MusicPassApp)
+- **Email**: contato@musicpass.fun
+- **Site**: [www.musicpass.fun](https://www.musicpass.fun)
 
 ## 🙏 Acknowledgments
 
